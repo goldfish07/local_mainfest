@@ -4,7 +4,8 @@
   <!--Repositories to add-->  
   <!--Samsung Stuff-->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-18.0" />
-
+    <project path="device/samsung_slsi" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-18.1" />
+   
   <!--goldfish07-->
     <project path="device/samsung/j8y18lte" name="goldfish07/android_device_samsung_j8y18lte" remote="github" revision="lineage-18.0" />
     <project path="kernel/samsung/j8y18lte" name="goldfish07/android_kernel_samsung_j8y18lte" remote="github" revision="lineage-18.0" />
